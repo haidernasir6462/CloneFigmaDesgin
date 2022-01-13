@@ -9,12 +9,12 @@ import Login from "./components/login/index";
 function App() {
   return (
     <>
-      <Login />
-      <SignUp />
+      {/* <Login /> */}
+      {/* <SignUp /> */}
       {/* <Navbar /> */}
-      <Dashboard />
-      <HomePage/>
-      <Footer />
+      {/* <Dashboard /> */}
+      <HomePage />
+      {/* <Footer /> */}
     </>
   );
 }

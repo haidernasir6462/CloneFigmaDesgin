@@ -3,6 +3,7 @@ import header from '../../assests/graphics/Header Illustrations.svg'
 import headerBg from '../../assests/graphics/Header BG.svg'
 import Logo from '../../assests/graphics/file 01-1.png'
 import search from '../../assests/graphics/Group 4692.svg'
+import user from '../../assests/images/user.jpg'
 
 
 
